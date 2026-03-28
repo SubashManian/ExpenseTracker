@@ -1,0 +1,4 @@
+/Users/su20467952/ExpenseTracker/android/app/.cxx/Debug/26y1aa27/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/su20467952/ExpenseTracker/android/app/.cxx/Debug/26y1aa27/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/su20467952/ExpenseTracker/android/app/.cxx/Debug/26y1aa27/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/su20467952/ExpenseTracker/android/app/.cxx/Debug/26y1aa27/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
